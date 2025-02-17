@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Path to the CSV file
-DATAFILE="Radiomics-58.csv"
+DATAFILE="CSV/BC-title-abs.csv"
 KEYWORD_FILE="keywords.txt"
 
 # Check if the keywords file exists
@@ -30,7 +30,7 @@ done
 unique_total=$(sort -u "$tempfile" | wc -l)
 
 # Display the **corrected** total
-printf "3. Transformers (total without duplicates): %d\n" "$unique_total"
+printf "Total without duplicates: %d\n" "$unique_total"
 
 # Clean up temporary file
 mv "$tempfile" ./

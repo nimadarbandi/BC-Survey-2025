@@ -1,2 +1,12 @@
-[Ee]nsemble
-[Hh]ybrid
+[Tt]ransfer [Ll]earning
+[Dd]omain [Aa]daptation
+[Pp]re [Tt]rained
+[Ff]ine-[Tt]uning
+[Ff]ine [Tt]uning
+[Kk]nowledge [Tt]ransfer
+[Tt]ransfer
+CNN
+RNN
+GAN
+KNN
+XGBoost

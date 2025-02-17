@@ -1,12 +1,12 @@
 #!/bin/bash
 
 # Path to the CSV file
-DATAFILE="23Transformers-14.csv"
-KEYWORD_FILE="keywords.txt"
+DATAFILE="CSV/Radiomics-58.csv"
+KEYWORD_FILE="keywordsHybrid.txt"
 
 # Check if the keywords file exists
 if [[ ! -f "$KEYWORD_FILE" ]]; then
-    echo "Error: keywords.txt not found!"
+    echo "Error: keywordsHybrid.txt not found!"
     exit 1
 fi
 
@@ -30,7 +30,7 @@ done
 unique_total=$(sort -u "$tempfile" | wc -l)
 
 # Display the **corrected** total
-printf "3. Transformers (total without duplicates): %d\n" "$unique_total"
+printf "Total without duplicates: %d\n" "$unique_total"
 
 # Clean up temporary file
 mv "$tempfile" ./
