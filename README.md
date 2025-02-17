@@ -22,3 +22,7 @@ XGBoost
 ViT
 
 [Rr]adiomics
+
+![After 2024 Taxonomy](fig/taxonomy.png)
+
+![Comparison bw Before and After 2024](fig/Histogram.png)
