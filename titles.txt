@@ -1,0 +1,15 @@
+Optimizing Machine Learning for Breast Cancer Detection by Hybrid Metaheuristic Approach
+Optimized Transfer Learning Models for Breast Cancer image classification
+Harnessing Vision Transformers for Precise and Explainable Breast Cancer Diagnosis
+Breast Cancer Classification Using Breast Ultrasound Images with a Hybrid of Transfer Learning and Bayesian-Optimized Fast Learning Network
+Deep Transfer Learning Hybrid Techniques for Precision in Breast Cancer Tumor Histopathology Classification
+Deep learning to optimize radiotherapy decisions for elderly patients with early-stage breast cancer: a novel approach for personalized treatment
+Machine learning based anoikis signature predicts personalized treatment strategy of breast cancer
+Optimized Transfer Learning Models for Breast Cancer image classification
+Harnessing Vision Transformers for Precise and Explainable Breast Cancer Diagnosis
+Machine learning based anoikis signature predicts personalized treatment strategy of breast cancer
+Breast cancer classification based on hybrid machine learning model
+Optimized Transfer Learning Models for Breast Cancer image classification
+Machine learning based anoikis signature predicts personalized treatment strategy of breast cancer
+Optimized Transfer Learning Models for Breast Cancer image classification
+Fluctuations in serum lipid levels during neoadjuvant treatment as novel predictive and prognostic biomarkers for locally advanced breast cancer: a retrospective analysis based on a prospective cohort
